@@ -13,6 +13,8 @@ function preload() {
 }
 
 function setup(){
+
+    // add a comment
     var canvas = createCanvas(1200,400);
     engine = Engine.create();
     world = engine.world;
